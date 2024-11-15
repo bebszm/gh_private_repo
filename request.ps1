@@ -1,3 +1,4 @@
+#
 $TOKEN="YOUR_PERSONAL_ACCESS_TOKEN"
 $FILE="file.zip"                  # Your file name    
 $VERSION="latest"                 # Release TAG                      
