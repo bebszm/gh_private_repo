@@ -1,3 +1,5 @@
+# This script will pull data from a private repo in github
+
 $TOKEN="YOUR_PERSONAL_ACCESS_TOKEN"
 $FILE="file.zip"                  # Your file name    
 $VERSION="latest"                 # Release TAG                      
